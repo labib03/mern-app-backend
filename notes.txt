@@ -1,0 +1,1 @@
+pake driver mongodb atlas 2.2.12 biar bisa connect
